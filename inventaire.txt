@@ -1,0 +1,788 @@
+﻿[
+        {
+            "Catégorie": "Matériel",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "3 balles",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Tapis Magic",
+            "Quantité": "5",
+            "Complet": "Oui",
+            "Etat": "Bon",
+            "Remarques": "un tapis est dédicacé, 2 en mousse, 3 en carton-plastique"
+        },
+        {
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Pétanque",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Zombicide",
+            "Quantité": "3",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Green Horde(complet), Black Plague, Rue Morgue"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Risk",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bof"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Trivial Pursuit",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Questions surement plus à jour"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Mille Bornes",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Monopoly",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Dune",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Rafistolé"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "BloodBowl",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Rafistolé"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Loup Garou",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Presque toutes les extensions"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Zone Mortelle",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Rafistolé"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Dominion",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Takenoko",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Catane",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Les Singapourien kiffent"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Unlock",
+            "Quantité": "2",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Avion, Métro, Savant fou, Train western, Magicien d'Oz"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "DC deck Building",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Extension Watchers à côté des petits paquets de cartes en haut"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Dixit",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Smallworld",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "1 Extension River World"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "7 Wonders",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Cash Guns",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bof"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Donjon de Naheulbeuk",
+            "Quantité": "1",
+            "Complet": "Non",
+            "Etat": "Bof",
+            "Remarques": "Signé par PoC\nManque 2 jetons de dégats"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Champions of Midgard",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Tapis Extension à côté des tapis Magic"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Cyber Strategia",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Ashes",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Camel Cup",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Abyss",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Colt Express",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Bears vs Babies",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Rumble in the Dungeon",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "The Mind",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Sushi Go",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Nosferato",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Hacker",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Fantasy",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bof"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Dobble",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bof"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Service Compris",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Illuminati",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Skipbo",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Gloom",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Mascarade",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Les Bâtisseurs",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Crazy Time",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Citadelles",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Mafia de Cuba",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "6 qui prend",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Mr Jack",
+            "Quantité": "2",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "un petit et un grand"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Hanabi",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Age of War",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Paku paku",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Lâche pas la savonette",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "WaChaBi",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Exploding Kittens",
+            "Quantité": "2",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Classic & NSWF editions"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Uno",
+            "Quantité": "4",
+            "Complet": "?",
+            "Etat": "Bof"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Elixir",
+            "Quantité": "2",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Classic & Compil editions"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Brothers",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Star Realms",
+            "Quantité": "3",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Rouge, Blanc et sans couleur pour les 3 jeux"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Saboteur",
+            "Quantité": "2",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "un petit et un grand"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Shadow Hunters",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Membre d'Honneur"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Liens de Sang",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Loony Quest",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "18 minutes pour un Empire",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Munchkin",
+            "Quantité": "3",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Classic, StarMunckin, Apocalypse"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Trader",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Imaginarium",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Banana Macho",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Smash Up",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon",
+            "Remarques": "Extensions ?"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Warhammer Quest",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Gwent",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "CodeName Pictures",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Sac à Moustache",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Cartons Magic",
+            "Quantité": "13",
+            "Etat": "Bon",
+            "Remarques": "Feuilles de scores et 4 decks préfaits ?"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Méditations Foireuses",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "Matériel",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Boites à Dés",
+            "Quantité": "2",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Bang",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "Livres",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Thorgal",
+            "Quantité": "8",
+            "Complet": "Oui",
+            "Etat": "Bof",
+            "Remarques": "T 21 à 28"
+        },
+        {
+            "Catégorie": "Matériel",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Boite à stylos",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdR",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Shadowrun",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdR",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Mage : L'Ascension",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdR",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Pathfinder",
+            "Quantité": "3",
+            "Complet": "Oui",
+            "Etat": "Bon",
+            "Remarques": "Manuel des joueurs, Bestiaire, Art de la Magie"
+        },
+        {
+            "Catégorie": "JdR",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Dark Heresy",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdR",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Vampire",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "Divers",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Mickey Parade Geant Collector",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdR",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Yggdrasil",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Pochettes JdR",
+            "Quantité": "6",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Paranoia",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Tarot",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bof"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Questions de merde",
+            "Quantité": "1",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdC",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Jeu de 52 cartes Meritis",
+            "Quantité": "2",
+            "Complet": "?",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdR",
+            "Date ajout": "13/08/2019",
+            "Dénomination": "Panneau de MJ",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "03/09/2019",
+            "Dénomination": "Carcassonne Star Wars",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "03/09/2019",
+            "Dénomination": "Tokaido",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "03/09/2019",
+            "Dénomination": "Magic Maze",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "22/11/2019",
+            "Dénomination": "Perudo",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "22/11/2019",
+            "Dénomination": "Captain Sonar",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        },
+        {
+            "Catégorie": "JdS",
+            "Date ajout": "22/11/2019",
+            "Dénomination": "Time Bomb",
+            "Quantité": "1",
+            "Complet": "Oui",
+            "Etat": "Bon"
+        }
+]
